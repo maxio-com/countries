@@ -649,6 +649,20 @@ NCO:
     max_latitude: 7.681884999999999
     max_longitude: 125.31497
   name: North Cotabato
+NCR:
+  unofficial_names:
+  - National Capital Region
+  - Pambansang Punong Rehiyon
+  translations:
+    en: National Capital Region
+  geo:
+    latitude: 14.6090537
+    longitude: 121.0222565
+    min_latitude: 14.3493861
+    min_longitude: 120.9172569
+    max_latitude: 14.781217
+    max_longitude: 121.132012
+  name: National Capital Region
 NEC:
   unofficial_names: Negros Occidental
   translations:
@@ -1006,22 +1020,8 @@ ZSI:
   geo:
     latitude: 7.02427
     longitude: 122.189
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   name: Zamboanga Sibuguey [Zamboanga Sibugay]
-'00':
-  unofficial_names:
-  - National Capital Region
-  - Pambansang Punong Rehiyon
-  translations:
-    en: National Capital Region
-  geo:
-    latitude: 14.6090537
-    longitude: 121.0222565
-    min_latitude: 14.3493861
-    min_longitude: 120.9172569
-    max_latitude: 14.781217
-    max_longitude: 121.132012
-  name: National Capital Region
