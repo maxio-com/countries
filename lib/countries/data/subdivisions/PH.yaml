@@ -2342,6 +2342,50 @@ NCO:
     max_latitude: 7.681884999999999
     max_longitude: 125.31497
   name: North Cotabato
+NCR:
+  unofficial_names:
+  - National Capital Region
+  - Pambansang Punong Rehiyon
+  translations:
+    en: Metro Manila
+    be: Сталічны Рэгіён
+    ca: Metro Manila
+    de: Metro Manila
+    es: Gran Manila
+    fa: کلانشهر مانیل
+    fi: Metro Manila
+    fr: Grand Manille
+    hi: मेट्रो मनिला
+    hr: Metro Manila
+    id: Metro Manila
+    it: Regione Capitale Nazionale
+    ja: マニラ首都圏
+    ko: 마닐라 대도시
+    lt: Manilos metropolija
+    ms: Metro Manila
+    nb: Metro Manila
+    nl: National Capital Region
+    pl: Region Stołeczny
+    pt: Grande Manila
+    ru: Столичный Регион
+    sl: Metro Manila
+    sr: Метро Манила
+    sv: Metro Manila
+    ta: மணிலா பெருநகரம்
+    th: เมโทรมะนิลา
+    tr: Metro Manila
+    uk: Столичний регіон (Філіппіни)
+    ur: میٹرو منیلا
+    vi: Vùng đô thị Manila
+    zh: 馬尼拉大都會
+  geo:
+    latitude: 14.6090537
+    longitude: 121.0222565
+    min_latitude: 14.3493861
+    min_longitude: 120.9172569
+    max_latitude: 14.781217
+    max_longitude: 121.132012
+  name: National Capital Region
 NEC:
   unofficial_names: Negros Occidental
   translations:
@@ -3616,55 +3660,11 @@ ZSI:
   geo:
     latitude: 7.02427
     longitude: 122.189
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   name: Zamboanga Sibuguey [Zamboanga Sibugay]
-'00':
-  unofficial_names:
-  - National Capital Region
-  - Pambansang Punong Rehiyon
-  translations:
-    en: Metro Manila
-    be: Сталічны Рэгіён
-    ca: Metro Manila
-    de: Metro Manila
-    es: Gran Manila
-    fa: کلانشهر مانیل
-    fi: Metro Manila
-    fr: Grand Manille
-    hi: मेट्रो मनिला
-    hr: Metro Manila
-    id: Metro Manila
-    it: Regione Capitale Nazionale
-    ja: マニラ首都圏
-    ko: 마닐라 대도시
-    lt: Manilos metropolija
-    ms: Metro Manila
-    nb: Metro Manila
-    nl: National Capital Region
-    pl: Region Stołeczny
-    pt: Grande Manila
-    ru: Столичный Регион
-    sl: Metro Manila
-    sr: Метро Манила
-    sv: Metro Manila
-    ta: மணிலா பெருநகரம்
-    th: เมโทรมะนิลา
-    tr: Metro Manila
-    uk: Столичний регіон (Філіппіни)
-    ur: میٹرو منیلا
-    vi: Vùng đô thị Manila
-    zh: 馬尼拉大都會
-  geo:
-    latitude: 14.6090537
-    longitude: 121.0222565
-    min_latitude: 14.3493861
-    min_longitude: 120.9172569
-    max_latitude: 14.781217
-    max_longitude: 121.132012
-  name: National Capital Region
 '41':
   translations:
     ar: ميماروبا
