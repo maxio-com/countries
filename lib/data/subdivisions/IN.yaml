@@ -55,6 +55,9 @@ KA:
 KL:
   name: Kerala
   names: Kerala
+LA:
+  name: Ladakh
+  names: Ladakh
 LD:
   name: Lakshadweep
   names:
@@ -97,6 +100,9 @@ SK:
 TN:
   name: "Tamil Nadu"
   names: "Tamil Nadu"
+TS:
+  name: Telangana
+  names: Telangana
 TR:
   name: Tripura
   names: Tripura
