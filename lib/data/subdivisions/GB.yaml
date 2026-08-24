@@ -656,12 +656,12 @@ TOF:
 TRF:
   name: Trafford
   names: Trafford
-TWR:
-  name: "Tyne and Wear"
-  names: "Tyne and Wear"
 TWH:
   name: "Tower Hamlets"
   names: "Tower Hamlets"
+TWR:
+  name: "Tyne and Wear"
+  names: "Tyne and Wear"
 VGL:
   name: "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]"
   names:
