@@ -270,6 +270,9 @@ GLS:
 GRE:
   name: Greenwich
   names: Greenwich
+GTM:
+  name: "Greater Manchester"
+  names: "Greater Manchester"
 GWN:
   name: Gwynedd
   names: Gwynedd
@@ -411,6 +414,9 @@ MRT:
 MRY:
   name: Moray
   names: Moray
+MSY:
+  name: Merseyside
+  names: Merseyside
 MTY:
   name: "Merthyr Tydfil [Merthyr Tudful GB-MTU]"
   names:
@@ -628,6 +634,9 @@ SWD:
 SWK:
   name: Southwark
   names: Southwark
+SYK:
+  name: "South Yorkshire"
+  names: "South Yorkshire"
 TAM:
   name: Tameside
   names: Tameside
@@ -650,6 +659,9 @@ TRF:
 TWH:
   name: "Tower Hamlets"
   names: "Tower Hamlets"
+TWR:
+  name: "Tyne and Wear"
+  names: "Tyne and Wear"
 VGL:
   name: "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]"
   names:
@@ -684,6 +696,9 @@ WLN:
 WLV:
   name: Wolverhampton
   names: Wolverhampton
+WMD:
+  name: "West Midlands"
+  names: "West Midlands"
 WND:
   name: Wandsworth
   names: Wandsworth
@@ -712,6 +727,9 @@ WSM:
 WSX:
   name: "West Sussex"
   names: "West Sussex"
+WYK:
+  name: "West Yorkshire"
+  names: "West Yorkshire"
 YOR:
   name: York
   names: York
